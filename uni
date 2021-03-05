@@ -1,4 +1,4 @@
 ---
 - hosts: local
   roles:
-  - role: tigervnc
+  - role: tigervnc-client
