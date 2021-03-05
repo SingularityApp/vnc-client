@@ -1,0 +1,7 @@
+---
+
+- name: Install TigerVNC-viewer
+  apt:
+    pkg:
+    - tigervnc-viewer
+  become: true
